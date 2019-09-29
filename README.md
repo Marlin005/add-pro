@@ -1,4 +1,3 @@
-# vuetify-test2
 
 > A Vue.js project
 
