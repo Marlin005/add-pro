@@ -4,8 +4,6 @@
 
 ## Build Setup
 
-# Clone the repository
-
 ``` bash
 # install dependencies
 npm install
